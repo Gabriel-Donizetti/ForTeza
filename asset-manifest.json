@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ForTeza/static/css/main.967ce32e.css",
+    "main.js": "/ForTeza/static/js/main.c61c3061.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ForTeza/static/js/787.28cb0dcd.chunk.js",
+    "static/media/emoji.png": "/ForTeza/static/media/emoji.2daecc57d19be17b759b.png",
+    "static/media/health.png": "/ForTeza/static/media/health.306942625f542506f6a0.png",
+    "index.html": "/ForTeza/index.html",
+    "main.967ce32e.css.map": "/ForTeza/static/css/main.967ce32e.css.map",
+    "main.c61c3061.js.map": "/ForTeza/static/js/main.c61c3061.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ForTeza/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.967ce32e.css",
+    "static/js/main.c61c3061.js"
+  ]
+}
